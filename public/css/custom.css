@@ -1,0 +1,36 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+.color-topbar-txt {
+	color: #000;
+}
+
+.bg-images-standard {
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+	background-position: center center !important;
+}
+
+.btn-banner {
+	border-radius: 3px;
+	border: 2px solid #fff;
+	background-color: transparent;
+	color: #fff;
+	text-shadow: none;
+	font-size: 1rem !important;
+}
+
+.btn-banner:hover {
+	border: 2px solid #333;
+	background-color: #333;
+	color: #fff;
+}
+
+.title-feat {
+	font-size: 1.2rem !important;
+	font-weight: 500 !important;
+}
