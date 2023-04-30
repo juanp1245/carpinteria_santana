@@ -34,3 +34,7 @@
 	font-size: 1.2rem !important;
 	font-weight: 500 !important;
 }
+
+.bg-galeria {
+	background-image: url('../../images/carpinteria/galeria/bnnr_galeria.jpg');
+}
